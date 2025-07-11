@@ -181,3 +181,5 @@ cython_debug/
 
 # Coverage reports
 coverage_html_report/
+mlproject.egg-info/
+*.egg-info/
